@@ -1,0 +1,9 @@
+-A variable always has a type
+-Data stored in a variable is called a value
+
+-Variable name must start with letter
+-May contain letters number and the underscore character
+-Doesn't contain space
+-Variable should begin with lowecase letters, because in Java class name begin with Capital letter
+
+
