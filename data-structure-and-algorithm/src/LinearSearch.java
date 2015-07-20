@@ -15,6 +15,9 @@ public class LinearSearch {
 		    if (arrayNum[i] == target) {
 		    	System.out.print("The position of "+target+" is at "+ (i+1));
 		    	}
+		    else {
+		    	System.out.print("Unable to find the target value");
+		    }
 		  }//Loop Ends
 		  
 		
